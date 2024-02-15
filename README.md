@@ -27,3 +27,5 @@ Não esquecendo os comandos principais usados antes de qualquer tipo de comando 
 - [Azure](azure.microsoft.com)
 
 - [ChatGPT](https://chat.openai.com/)
+
+**ESPERO QUE GOSTEM E CASO TENHAM ALGUMA AJUDA, SERÁ BEM VINDA!**
